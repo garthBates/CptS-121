@@ -1,0 +1,5 @@
+﻿  main.c
+e:\cs 121\lab4\task2\consoleapplication1\consoleapplication1\main.c(17): warning C4700: uninitialized local variable 'n' used
+e:\cs 121\lab4\task2\consoleapplication1\consoleapplication1\main.c(23): warning C4700: uninitialized local variable 'sum' used
+  ConsoleApplication1.vcxproj -> E:\CS 121\Lab4\Task2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\CS 121\Lab4\Task2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  PA1.c
+f:\cs 121\pa1\pa1\pa1.c(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cs 121\pa1\pa1\pa1.c(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cs 121\pa1\pa1\pa1.c(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\cs 121\pa1\pa1\pa1.c(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PA1.vcxproj -> F:\CS 121\PA1\Debug\PA1.exe
+  PA1.vcxproj -> F:\CS 121\PA1\Debug\PA1.pdb (Full PDB)

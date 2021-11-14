@@ -1,0 +1,42 @@
+﻿  main.c
+f:\cs 121\pa6\pa6\main.c(34): warning C4013: 'print_rules' undefined; assuming extern returning int
+f:\cs 121\pa6\pa6\main.c(45): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(45): warning C4024: 'manualy_place_ships': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(48): warning C4024: 'randomly_place_ships': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(55): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(55): warning C4024: 'place_computers_ships': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(66): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(66): warning C4024: 'check_shot': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(68): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(68): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(69): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(69): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(75): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(75): warning C4024: 'check_shot': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(76): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(76): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(86): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(86): warning C4024: 'check_shot': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(87): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(87): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(94): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(94): warning C4024: 'check_shot': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(96): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(96): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(97): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [10][10]'
+f:\cs 121\pa6\pa6\main.c(97): warning C4024: 'update_board': different types for formal and actual parameter 1
+f:\cs 121\pa6\pa6\main.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+f:\cs 121\pa6\pa6\main.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cs 121\pa6\pa6\main.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cs 121\pa6\pa6\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cs 121\pa6\pa6\main.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cs 121\pa6\pa6\main.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  PA6.vcxproj -> F:\CS 121\PA6\Debug\PA6.exe
+  PA6.vcxproj -> F:\CS 121\PA6\Debug\PA6.pdb (Full PDB)

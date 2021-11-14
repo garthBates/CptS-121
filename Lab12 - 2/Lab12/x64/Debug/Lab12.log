@@ -1,0 +1,25 @@
+﻿  main.c
+e:\cs 121\lab12 - 2\lab12\main.c(38): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+e:\cs 121\lab12 - 2\lab12\main.c(38): warning C4133: 'function': incompatible types - from 'char [50]' to 'FILE *'
+e:\cs 121\lab12 - 2\lab12\main.c(40): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+e:\cs 121\lab12 - 2\lab12\main.c(40): warning C4133: 'function': incompatible types - from 'char [50]' to 'FILE *'
+e:\cs 121\lab12 - 2\lab12\main.c(41): warning C4013: 'strcpy' undefined; assuming extern returning int
+e:\cs 121\lab12 - 2\lab12\main.c(46): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+e:\cs 121\lab12 - 2\lab12\main.c(46): warning C4133: 'function': incompatible types - from 'char [50]' to 'FILE *'
+e:\cs 121\lab12 - 2\lab12\main.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\cs 121\lab12 - 2\lab12\main.c(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\cs 121\lab12 - 2\lab12\main.c(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+e:\cs 121\lab12 - 2\lab12\main.c(44): warning C4474: 'fscanf' : too many arguments passed for format string
+  e:\cs 121\lab12 - 2\lab12\main.c(44): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\cs 121\lab12 - 2\lab12\main.c(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  linkedlist.c
+e:\cs 121\lab12 - 2\lab12\linkedlist.c(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+e:\cs 121\lab12 - 2\lab12\linkedlist.c(7): warning C4716: 'open_input_file': must return a value
+  Lab12.vcxproj -> E:\CS 121\Lab12 - 2\x64\Debug\Lab12.exe
+  Lab12.vcxproj -> E:\CS 121\Lab12 - 2\x64\Debug\Lab12.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  main.c
+e:\cs 121\lab5\task1\task1\task1\main.c(14): warning C4013: 'sum' undefined; assuming extern returning int
+  Task1.vcxproj -> E:\CS 121\Lab5\Task1\Task1\Debug\Task1.exe
+  Task1.vcxproj -> E:\CS 121\Lab5\Task1\Task1\Debug\Task1.pdb (Full PDB)

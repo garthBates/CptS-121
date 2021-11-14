@@ -1,0 +1,20 @@
+﻿  warm_up.c
+e:\cs 121\warm up\warm up\warm up\warm_up.c(14): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(15): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(24): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(26): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(28): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(37): warning C4133: 'function': incompatible types - from 'class_name *' to 'const char *'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(38): warning C4133: 'function': incompatible types - from 'text_book *' to 'const char *'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(39): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+e:\cs 121\warm up\warm up\warm up\warm_up.c(39): warning C4024: 'strcmp': different types for formal and actual parameter 1
+e:\cs 121\warm up\warm up\warm up\warm_up.c(39): warning C4024: 'strcmp': different types for formal and actual parameter 2
+e:\cs 121\warm up\warm up\warm up\warm_up.c(24): warning C4700: uninitialized local variable 'name' used
+  Warm up.vcxproj -> E:\CS 121\Warm up\Warm up\Debug\Warm up.exe
+  Warm up.vcxproj -> E:\CS 121\Warm up\Warm up\Debug\Warm up.pdb (Full PDB)

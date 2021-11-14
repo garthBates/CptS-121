@@ -1,0 +1,5 @@
+﻿  MyHello.c
+f:\cs 121\lab1task1\lab1task1\myhello.c(47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\cs 121\lab1task1\lab1task1\myhello.c(83): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab1Task1.vcxproj -> F:\CS 121\Lab1Task1\Debug\Lab1Task1.exe
+  Lab1Task1.vcxproj -> F:\CS 121\Lab1Task1\Debug\Lab1Task1.pdb (Full PDB)

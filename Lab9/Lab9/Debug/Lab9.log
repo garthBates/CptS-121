@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\garth\desktop\lab9\lab9\main.c(13): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  Lab9.vcxproj -> C:\Users\Garth\Desktop\Lab9\Debug\Lab9.exe
+  Lab9.vcxproj -> C:\Users\Garth\Desktop\Lab9\Debug\Lab9.pdb (Full PDB)

@@ -1,0 +1,3 @@
+Average GPA: 3.07
+Max GPA: 3.78
+Min GPA: 2.10

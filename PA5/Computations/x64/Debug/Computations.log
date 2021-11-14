@@ -1,0 +1,14 @@
+﻿  main.c
+f:\cs 121\pa5\computations\main.c(38): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+f:\cs 121\pa5\computations\main.c(39): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+f:\cs 121\pa5\computations\main.c(40): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+f:\cs 121\pa5\computations\main.c(41): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+f:\cs 121\pa5\computations\main.c(42): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+f:\cs 121\pa5\computations\main.c(48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+f:\cs 121\pa5\computations\main.c(48): warning C4024: 'sum_digits': different types for formal and actual parameter 2
+f:\cs 121\pa5\computations\main.c(49): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+f:\cs 121\pa5\computations\main.c(49): warning C4024: 'is_odd_number': different types for formal and actual parameter 2
+f:\cs 121\pa5\computations\main.c(50): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+f:\cs 121\pa5\computations\main.c(50): warning C4024: 'is_multiple': different types for formal and actual parameter 2
+  Computations.vcxproj -> F:\CS 121\PA5\x64\Debug\Computations.exe
+  Computations.vcxproj -> F:\CS 121\PA5\x64\Debug\Computations.pdb (Full PDB)

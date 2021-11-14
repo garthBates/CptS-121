@@ -1,0 +1,16 @@
+Teacher: Daniel Olivares
+
+Student name: Bob Smith
+ID number: 1231234
+GPA: 3.78
+Major: Computer Science
+
+Student name: Margaret Bailey
+ID number: 1231235
+GPA: 3.33
+Major: Mathematics
+
+Student name: John Morgan
+ID number: 1231236
+GPA: 2.10
+Major: Computer Science
